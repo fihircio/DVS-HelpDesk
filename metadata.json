@@ -1,0 +1,6 @@
+{
+  "name": "DVS HelpDesk Service Portal",
+  "description": "Sistem Perkhidmatan HelpDesk Bersepadu Jabatan Perkhidmatan Veterinar (DVS) - Pelaporan Masalah, Pengurusan & Pengesahan Masalah, serta Direktori Saluran Komunikasi Rasmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
